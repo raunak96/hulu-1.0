@@ -10,6 +10,9 @@ module.exports = {
 			animation: {
 				bounce: "bounce 0.6s infinite",
 			},
+			screens: {
+				"3xl": "2000px",
+			},
 		},
 	},
 	variants: {
